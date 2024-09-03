@@ -7,5 +7,7 @@ Faça o clone deste repositório em sua maquina, instale as dependencias do proj
 
 # Todos/Task
 criar a tela de login 4h => OK
+
 Funcionalidade de manter conectado 2h => OK
+
 Funcionalidade de manter conectado 2h => OK
