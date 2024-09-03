@@ -1,0 +1,23 @@
+.container-input-password {
+  display: flex;
+  flex-direction: column;
+
+  input {
+    margin-top: 0;
+  }
+}
+.button-show-password {
+  border: none;
+  background-color: transparent;
+  font-size: small;
+  margin: 0;
+  padding: 0;
+  margin-right: auto;
+  color: rgb(96, 96, 193);
+}
+.button-show-password:focus {
+  outline: none;
+}
+.button-show-password:hover {
+  border: none;
+}
